@@ -3,5 +3,7 @@ public class ilk01 {
 
 
         System.out.println("ilk o");
+
+        System.out.println("hjegdb");
     }
 }
